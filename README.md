@@ -144,6 +144,11 @@
 	   - motion service 실행
 	    <pre><code> pi@raspberrypi:~ $ sudo service motion start </code></pre>
 	    
+	   - 스트리밍 화면 확인
+	    <pre><code> http://[라즈베리파이IP주소]:[포트번호] </code></pre>
+	    <img src="./img/실시간스트리밍.png">
+	    
+	  
     - #### 안드로이드 소켓 통신 구현
 	<img width="{30%" src="./img/socket.png">
 	
