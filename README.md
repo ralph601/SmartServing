@@ -116,9 +116,6 @@
 	   - ServoBlaster 설치
 	    <pre><code> pi@raspberrypi:~ $ sudo git clone https://github.com/richardghirst/PiBits </code></pre>
 
-	   - ServoBlaster 데몬 실행
-	    <pre><code> pi@raspberrypi:~/PiBits/ServoBlaster/user $ sudo make install </code></pre>
-
 	    - echo 명령어로 모터 제어
 	    <pre><code> pi@raspberrypi:~ $ echo 0=150 > /dev/servoblaster </code></pre>
 
